@@ -47,7 +47,7 @@ ExifRead==3.0.0
 fastapi==0.115.11
 fastjsonschema==2.19.1
 filelock==3.16.0
-Flask==3.1.0
+Flask==3.0.3
 flatbuffers==25.2.10
 flickrapi==2.4.0
 fonttools==4.53.0
