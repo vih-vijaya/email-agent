@@ -115,7 +115,7 @@ patsy==0.5.6
 pillow==10.3.0
 platformdirs==4.1.0
 plotly==5.22.0
-plotnine==0.13.6
+plotnine==0.12.4
 preshed==3.0.9
 prometheus-client==0.19.0
 prompt-toolkit==3.0.43
