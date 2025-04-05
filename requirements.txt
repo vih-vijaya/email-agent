@@ -129,7 +129,7 @@ Pygments==2.17.2
 PyJWT==2.9.0
 pyparsing==3.1.2
 python-dateutil==2.8.2
-python-dotenv==1.1.0
+python-dotenv==1.0.1
 python-json-logger==2.0.7
 python-multipart==0.0.20
 python-slugify==8.0.4
