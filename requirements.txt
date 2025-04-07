@@ -13,7 +13,7 @@ kombu==5.5.2
 packaging==24.2
 prompt_toolkit==3.0.50
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
+python-dotenv==1.0.1
 six==1.17.0
 sqlparse==0.5.3
 tzdata==2025.2
